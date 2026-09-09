@@ -1,8 +1,8 @@
 class FocusriteControlApi < Formula
   desc "Control Scarlett interfaces through direct USB or Focusrite Control 2"
   homepage "https://github.com/alexanderdalesio/focusrite-control-2-api"
-  url "https://github.com/alexanderdalesio/focusrite-control-2-api/archive/refs/tags/v0.2.1.tar.gz"
-  sha256 "bd4ef552ce661aaa492ed6bfcfee02abf13aa7e7593358e20eaa194114321d71"
+  url "https://github.com/alexanderdalesio/focusrite-control-2-api/archive/refs/tags/v0.3.0.tar.gz"
+  sha256 "c8a6114d5cd79dab85f3932050d5eb3403de4d7c6ba5d08eec5153a2718854e3"
   license "MIT"
 
   depends_on "python@3.14" => :build
